@@ -1,11 +1,6 @@
 # translator
 word translator
 
-Prepared by: Yanko Bachvarov
-Student at: NBU Sofia
-Program: Informatics
-Subject: Realization of Software Projects
-
 - The goal of this small project is to create a basic application, coded in C++, that will read words from XML and send requests to Google Translate for translation. The returned translated words will be written to a XML file, which can later be used by another application. There will be different categories with various number of words. 
 
 -The curl library will be used for handling the connection/requests. The boost::property_tree will be used to assist managing the XML files. 
