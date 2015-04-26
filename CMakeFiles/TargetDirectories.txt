@@ -1,0 +1,1 @@
+/home/yanko/work/first_thousand_words/google_translate/CMakeFiles/translator.dir

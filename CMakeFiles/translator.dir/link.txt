@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/translator.dir/main.cpp.o  -o translator  -L/home/vladimir/opt/lib -rdynamic -lcurl -lboost_program_options -Wl,-rpath,/home/vladimir/opt/lib 
